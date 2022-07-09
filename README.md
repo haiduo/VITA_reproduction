@@ -6,7 +6,7 @@ A code reproduction of VITA.
 1. see  [Mask2Former](https://github.com/facebookresearch/Mask2Former/edit/main/INSTALL.md)
 2. see  [IFC](https://github.com/sukjunhwang/IFC#steps)
 3. The Datasets need to be placed up the root of detertrons as follows ：[catalogue_desc](https://github.com/haiduo/VITA_reproduction/blob/main/catalogue.png)
-4. You need to add [YouTubeVIS 2019 model weight of Mask2Former about Video Instance Segmentation](https://dl.fbaipublicfiles.com/maskformer/video_mask2former/ytvis_2019/video_maskformer2_R50_bs16_8ep/model_final_34112b.pkl) to weights folder as for as a pre-training model.
+4. You need to add  the [YouTubeVIS 2019 model weight of Mask2Former about Video Instance Segmentation](https://dl.fbaipublicfiles.com/maskformer/video_mask2former/ytvis_2019/video_maskformer2_R50_bs16_8ep/model_final_34112b.pkl) to the weights folder as for a pre-training model.
 
 # Note
 - Based on **detectron2**.
