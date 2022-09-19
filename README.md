@@ -12,5 +12,5 @@ A code reproduction of VITA.
 - Based on **detectron2**.
 - The codes are under **projects**/ folder, which follows the convention of detectron2.
 - You can easily import our project to the latest detectron2 by following below.
-- inserting projects/VITA folder
+- inserting [VITA_1 folder](https://github.com/haiduo/VITA_reproduction/tree/main/detectron2/projects/VITA_1)
 
